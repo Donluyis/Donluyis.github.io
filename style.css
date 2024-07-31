@@ -29,7 +29,7 @@ header span{
     border-radius: 5px;
     font-size: 1cm;
 }
-.bi{
+.icon-habilidades{
     color: #DA0037;
     font-size: 2cm;
 }
@@ -37,4 +37,16 @@ header span{
     background-image: url('/assets/Clone\ pinterest.png');
     background-size: contain;
     background-repeat: no-repeat;
+}
+footer{
+    background-color: #EDEDED;
+}
+footer .icon-footer{
+color:#DA0037;
+}
+footer p{
+    color: #DA0037;
+}
+footer p a{
+    color: #DA0037;
 }

@@ -1,0 +1,40 @@
+*{
+    font-family: "Noto Sans", sans-serif;
+}
+header{
+    background-color: #171717;
+}
+header span{
+    color: #EDEDED;
+}
+.nav-item a{
+    color: #EDEDED; 
+}
+.nav-item a{
+    color: #EDEDED;
+}
+/* Link visitado*/
+.nav-item a:visited{
+    color: #EDEDED;
+}
+.nav-item a:hover{
+    color: #EDEDED;
+}
+#nav-button{
+    background-color: #DA0037;
+}
+.icon-square .bi{
+    width: 1.5cm;
+    height: auto;
+    border-radius: 5px;
+    font-size: 1cm;
+}
+.bi{
+    color: #DA0037;
+    font-size: 2cm;
+}
+.img-proyecto1{
+    background-image: url('/assets/Clone\ pinterest.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
